@@ -3,7 +3,7 @@
 I am a software development student from Turkey who develops my own projects.
 - 🔭 I’m currently working on **Autonomous UAV Systems**
 
-- 🌱 I’m currently learning **Machine Learning, YOLO and Quantum Programing**
+- 🌱 I’m currently learning **Machine Learning, YOLO and Quantum Programming**
 
 - 💬 Ask me about **Python, C, C++, C#, SQL and UAV Systems**
 
