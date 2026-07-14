@@ -27,30 +27,16 @@ I enjoy owning the full engineering path: shaping datasets, developing and evalu
 
 ## What I Build
 
-<img src="./assets/expertise-cards-v2.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
+<img src="./assets/expertise-cards-v3.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
 
 ## Technologies
 
-#### AI & Computer Vision
-
-<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn&theme=dark" alt="Python, OpenCV, PyTorch, TensorFlow and scikit-learn" />
-
-#### Languages & Application Development
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,html,css,qt&theme=dark" alt="C++, C#, Java, JavaScript, TypeScript, HTML, CSS and Qt" />
-
-#### Backend & Data
-
-<img src="https://skillicons.dev/icons?i=dotnet,flask,fastapi,mysql,postgres,sqlite&theme=dark" alt=".NET, Flask, FastAPI, MySQL, PostgreSQL and SQLite" />
-
-#### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,arduino,raspberrypi,vscode,postman&theme=dark" alt="Git, GitHub, Docker, Linux, Arduino, Raspberry Pi, VS Code and Postman" />
+<img src="./assets/technology-matrix-v3.svg" width="100%" alt="Technology stack grouped by AI and computer vision, application development, backend and data, and engineering tools" />
 
 ## Selected Work
 
-<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v2.svg" width="100%" alt="SABIS Assistant" /></a>
+<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v3.svg" width="100%" alt="SABIS Assistant" /></a>
 
-<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v2.svg" width="100%" alt="Human Dog Detection" /></a>
+<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v3.svg" width="100%" alt="Human Dog Detection" /></a>
 
-<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v2.svg" width="100%" alt="Vehicles Type Counter" /></a>
+<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v3.svg" width="100%" alt="Vehicles Type Counter" /></a>
