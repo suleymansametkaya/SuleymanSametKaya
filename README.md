@@ -15,7 +15,7 @@
 <a href="https://suleymansametkaya.com.tr"><img src="./assets/buttons/website-v2.svg" height="40" alt="Website" /></a>&nbsp;
 <a href="https://suleymansametkaya.com.tr/cv"><img src="./assets/buttons/cv-v2.svg" height="40" alt="CV" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="./assets/buttons/linkedin-v4.svg" height="40" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email-v4.svg" height="40" alt="Email" /></a>
+<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email-v6.svg" height="40" alt="Email" /></a>
 
 </div>
 
@@ -35,8 +35,8 @@ I enjoy owning the full engineering path: shaping datasets, developing and evalu
 
 ## Selected Work
 
-<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v4.svg" width="100%" alt="SABIS Assistant" /></a>
+<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v5.svg" width="100%" alt="SABIS Assistant" /></a>
 
-<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v4.svg" width="100%" alt="Human Dog Detection" /></a>
+<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v5.svg" width="100%" alt="Human Dog Detection" /></a>
 
-<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v4.svg" width="100%" alt="Vehicles Type Counter" /></a>
+<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v5.svg" width="100%" alt="Vehicles Type Counter" /></a>
