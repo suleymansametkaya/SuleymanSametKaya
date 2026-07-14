@@ -14,8 +14,8 @@
 
 <a href="https://suleymansametkaya.com.tr"><img src="./assets/buttons/website-v2.svg" height="40" alt="Website" /></a>&nbsp;
 <a href="https://suleymansametkaya.com.tr/cv"><img src="./assets/buttons/cv-v2.svg" height="40" alt="CV" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="./assets/buttons/linkedin-v2.svg" height="40" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email-v2.svg" height="40" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="./assets/buttons/linkedin-v3.svg" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email-v3.svg" height="40" alt="Email" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@ I enjoy owning the full engineering path: shaping datasets, developing and evalu
 
 ## What I Build
 
-<img src="./assets/expertise-cards-v3.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
+<img src="./assets/expertise-cards-v4.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
 
 ## Technologies
 
