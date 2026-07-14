@@ -12,10 +12,10 @@
 
 <br />
 
-<a href="https://suleymansametkaya.com.tr"><img src="./assets/buttons/website.svg" height="40" alt="Website" /></a>&nbsp;
-<a href="https://suleymansametkaya.com.tr/cv"><img src="./assets/buttons/cv.svg" height="40" alt="CV" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="./assets/buttons/linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email.svg" height="40" alt="Email" /></a>
+<a href="https://suleymansametkaya.com.tr"><img src="./assets/buttons/website-v2.svg" height="40" alt="Website" /></a>&nbsp;
+<a href="https://suleymansametkaya.com.tr/cv"><img src="./assets/buttons/cv-v2.svg" height="40" alt="CV" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="./assets/buttons/linkedin-v2.svg" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email-v2.svg" height="40" alt="Email" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@ I enjoy owning the full engineering path: shaping datasets, developing and evalu
 
 ## What I Build
 
-<img src="./assets/focus-grid.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
+<img src="./assets/expertise-cards-v2.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
 
 ## Technologies
 
@@ -49,8 +49,8 @@ I enjoy owning the full engineering path: shaping datasets, developing and evalu
 
 ## Selected Work
 
-<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant.svg" width="100%" alt="SABIS Assistant" /></a>
+<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v2.svg" width="100%" alt="SABIS Assistant" /></a>
 
-<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection.svg" width="100%" alt="Human Dog Detection" /></a>
+<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v2.svg" width="100%" alt="Human Dog Detection" /></a>
 
-<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter.svg" width="100%" alt="Vehicles Type Counter" /></a>
+<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v2.svg" width="100%" alt="Vehicles Type Counter" /></a>

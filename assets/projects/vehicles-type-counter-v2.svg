@@ -10,9 +10,12 @@
   <text x="104" y="43" fill="#F4F4F5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Vehicles Type Counter</text>
   <text x="104" y="70" fill="#AAB2BD" font-family="Arial, Helvetica, sans-serif" font-size="14">Vehicle classification, counting and database-backed traffic analysis from camera streams.</text>
   <g font-family="'Courier New', monospace" font-size="11" font-weight="700">
-    <rect x="844" y="31" width="88" height="30" rx="15" fill="#3776AB" fill-opacity="0.14" stroke="#3776AB" stroke-opacity="0.55"/><text x="861" y="50" fill="#69A9E0">PYTHON</text>
-    <rect x="944" y="31" width="68" height="30" rx="15" fill="#F59E0B" fill-opacity="0.12" stroke="#F59E0B" stroke-opacity="0.45"/><text x="963" y="50" fill="#FBBF24">ML</text>
-    <rect x="1024" y="31" width="92" height="30" rx="15" fill="#4479A1" fill-opacity="0.14" stroke="#4479A1" stroke-opacity="0.5"/><text x="1040" y="50" fill="#6FA7D0">DATABASE</text>
+    <rect x="790" y="31" width="106" height="30" rx="15" fill="#3776AB" fill-opacity="0.14" stroke="#3776AB" stroke-opacity="0.55"/>
+    <circle cx="806" cy="43" r="5" fill="#3776AB"/><circle cx="811" cy="49" r="5" fill="#FFD43B"/><text x="820" y="50" fill="#69A9E0">PYTHON</text>
+    <rect x="908" y="31" width="82" height="30" rx="15" fill="#F59E0B" fill-opacity="0.12" stroke="#F59E0B" stroke-opacity="0.45"/>
+    <circle cx="924" cy="46" r="3" fill="#FBBF24"/><circle cx="932" cy="41" r="2.5" fill="#FBBF24"/><circle cx="932" cy="51" r="2.5" fill="#FBBF24"/><path d="M926 45l4-3M926 47l4 3" stroke="#FBBF24"/><text x="942" y="50" fill="#FBBF24">ML</text>
+    <rect x="1002" y="31" width="114" height="30" rx="15" fill="#4479A1" fill-opacity="0.14" stroke="#4479A1" stroke-opacity="0.5"/>
+    <ellipse cx="1018" cy="41" rx="7" ry="3" stroke="#6FA7D0"/><path d="M1011 41v10c0 2 14 2 14 0V41M1011 46c0 2 14 2 14 0" stroke="#6FA7D0"/><text x="1032" y="50" fill="#6FA7D0">DATABASE</text>
   </g>
   <path d="m1150 43 9 9-9 9M1138 52h21" stroke="#F4F4F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
