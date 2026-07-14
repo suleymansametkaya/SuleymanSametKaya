@@ -35,8 +35,8 @@ I enjoy owning the full engineering path: shaping datasets, developing and evalu
 
 ## Selected Work
 
-<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v5.svg" width="100%" alt="SABIS Assistant" /></a>
+<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant-v6.svg" width="100%" alt="SABIS Assistant" /></a>
 
-<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v5.svg" width="100%" alt="Human Dog Detection" /></a>
+<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection-v6.svg" width="100%" alt="Human Dog Detection" /></a>
 
-<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v5.svg" width="100%" alt="Vehicles Type Counter" /></a>
+<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter-v6.svg" width="100%" alt="Vehicles Type Counter" /></a>
