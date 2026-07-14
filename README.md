@@ -7,7 +7,7 @@
 <br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=0FF181&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+Artificial+Intelligence;Autonomous+Systems+%C2%B7+UAV+Technologies;Building+software+for+the+physical+world" alt="Areas of expertise" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1000&color=0FF181&center=true&vCenter=true&width=720&lines=Computer+Vision+%C2%B7+Artificial+Intelligence;Applied+AI+%C2%B7+Systems+Integration;Building+software+for+the+physical+world" alt="Areas of expertise" />
 </a>
 
 <br />
@@ -21,43 +21,36 @@
 
 ## About
 
-> I am a **Computer Engineer** focused on computer vision, artificial intelligence and autonomous systems. I build reliable software that connects visual intelligence with real-world operations.
+I am a **Computer Engineer** focused on computer vision and applied artificial intelligence. I have hands-on experience designing end-to-end solutions for industrial environments, including real-time object detection, multi-object tracking, counting, visual quality inspection and data preparation.
 
-<p align="center">
-  <code>Detect</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Track</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Understand</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Act</code>
-</p>
+I enjoy owning the full engineering path: shaping datasets, developing and evaluating models, building Python applications, connecting APIs and databases, and validating systems in real-world conditions. My goal is to create reliable software that turns visual data into clear, measurable operational value.
 
 ## What I Build
 
-<img src="./assets/focus-grid.svg" width="100%" alt="Computer Vision, Autonomous Systems and Applied AI" />
+<img src="./assets/focus-grid.svg" width="100%" alt="Computer Vision, AI Applications and Systems Integration" />
 
 ## Technologies
 
-<div align="center">
+#### AI & Computer Vision
 
-![Python](https://img.shields.io/badge/Python-0a0a0b?style=flat-square&logo=python&logoColor=0ff181)
-![C++](https://img.shields.io/badge/C%2B%2B-0a0a0b?style=flat-square&logo=cplusplus&logoColor=0ff181)
-![C#](https://img.shields.io/badge/C%23-0a0a0b?style=flat-square&logo=dotnet&logoColor=0ff181)
-![OpenCV](https://img.shields.io/badge/OpenCV-0a0a0b?style=flat-square&logo=opencv&logoColor=0ff181)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0b?style=flat-square&logo=pytorch&logoColor=0ff181)
-![ROS](https://img.shields.io/badge/ROS-0a0a0b?style=flat-square&logo=ros&logoColor=0ff181)
-![Arduino](https://img.shields.io/badge/Arduino-0a0a0b?style=flat-square&logo=arduino&logoColor=0ff181)
-![MySQL](https://img.shields.io/badge/MySQL-0a0a0b?style=flat-square&logo=mysql&logoColor=0ff181)
-![Linux](https://img.shields.io/badge/Linux-0a0a0b?style=flat-square&logo=linux&logoColor=0ff181)
-![Git](https://img.shields.io/badge/Git-0a0a0b?style=flat-square&logo=git&logoColor=0ff181)
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn&theme=dark" alt="Python, OpenCV, PyTorch, TensorFlow and scikit-learn" />
 
-</div>
+#### Languages & Application Development
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,java,js,ts,html,css,qt&theme=dark" alt="C++, C#, Java, JavaScript, TypeScript, HTML, CSS and Qt" />
+
+#### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=dotnet,flask,fastapi,mysql,postgres,sqlite&theme=dark" alt=".NET, Flask, FastAPI, MySQL, PostgreSQL and SQLite" />
+
+#### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,arduino,raspberrypi,vscode,postman&theme=dark" alt="Git, GitHub, Docker, Linux, Arduino, Raspberry Pi, VS Code and Postman" />
 
 ## Selected Work
 
-<img src="./assets/selected-work.svg" width="100%" alt="Selected projects" />
+<a href="https://github.com/suleymansametkaya/SABIS-Assistant"><img src="./assets/projects/sabis-assistant.svg" width="100%" alt="SABIS Assistant" /></a>
 
-<div align="center">
+<a href="https://github.com/suleymansametkaya/Human-Dog-Detection"><img src="./assets/projects/human-dog-detection.svg" width="100%" alt="Human Dog Detection" /></a>
 
-Explore more on [**my portfolio**](https://suleymansametkaya.com.tr) or browse [**all repositories**](https://github.com/suleymansametkaya?tab=repositories).
-
-<br />
-
-<sub>Open to conversations around computer vision, autonomous systems and applied AI.</sub>
-
-</div>
+<a href="https://github.com/suleymansametkaya/Vehicles-Type-Counter"><img src="./assets/projects/vehicles-type-counter.svg" width="100%" alt="Vehicles Type Counter" /></a>

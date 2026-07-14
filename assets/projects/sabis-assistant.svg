@@ -1,0 +1,16 @@
+<svg width="1200" height="104" viewBox="0 0 1200 104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SABIS Assistant">
+  <rect x="1" y="1" width="1198" height="102" rx="16" fill="#10151B" stroke="#29313A"/>
+  <rect x="1" y="1" width="5" height="102" rx="2.5" fill="#4285F4"/>
+  <g transform="translate(30 25)">
+    <circle cx="26" cy="26" r="25" fill="#182333" stroke="#4285F4" stroke-opacity="0.6"/>
+    <path d="M14 20h24v18H14zM18 16h16v4H18z" stroke="#4285F4" stroke-width="2" stroke-linejoin="round"/>
+    <path d="m20 29 4 4 8-9" stroke="#34A853" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="104" y="43" fill="#F4F4F5" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">SABIS Assistant</text>
+  <text x="104" y="70" fill="#AAB2BD" font-family="Arial, Helvetica, sans-serif" font-size="14">A browser extension for grade simulation, academic-calendar tracking and student productivity.</text>
+  <g font-family="'Courier New', monospace" font-size="11" font-weight="700">
+    <rect x="858" y="31" width="104" height="30" rx="15" fill="#F7DF1E" fill-opacity="0.12" stroke="#F7DF1E" stroke-opacity="0.45"/><text x="877" y="50" fill="#F7DF1E">JAVASCRIPT</text>
+    <rect x="974" y="31" width="142" height="30" rx="15" fill="#4285F4" fill-opacity="0.12" stroke="#4285F4" stroke-opacity="0.45"/><text x="991" y="50" fill="#7FB0FF">CHROME EXT.</text>
+  </g>
+  <path d="m1150 43 9 9-9 9M1138 52h21" stroke="#F4F4F5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

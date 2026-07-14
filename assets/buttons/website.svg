@@ -1,6 +1,6 @@
 <svg width="154" height="40" viewBox="0 0 154 40" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Website">
   <rect x="0.5" y="0.5" width="153" height="39" rx="8" fill="#111418" stroke="#2B3139"/>
-  <g transform="translate(14 11)" stroke="#0FF181" stroke-width="1.7" stroke-linecap="round">
+  <g transform="translate(14 11)" stroke="#FF7139" stroke-width="1.7" stroke-linecap="round">
     <circle cx="9" cy="9" r="8"/>
     <path d="M1.5 9h15M9 1c2.2 2.2 3.2 4.9 3.2 8S11.2 14.8 9 17M9 1C6.8 3.2 5.8 5.9 5.8 9s1 5.8 3.2 8"/>
   </g>
