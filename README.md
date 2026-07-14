@@ -12,37 +12,24 @@
 
 <br />
 
-<a href="https://suleymansametkaya.com.tr"><img src="https://img.shields.io/badge/Website-111418?style=for-the-badge&logo=firefoxbrowser&logoColor=0FF181" alt="Website" /></a>
-<a href="https://suleymansametkaya.com.tr/cv"><img src="https://img.shields.io/badge/CV-111418?style=for-the-badge&logo=adobeacrobatreader&logoColor=0FF181" alt="CV" /></a>
-<a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="https://img.shields.io/badge/LinkedIn-111418?style=for-the-badge&logo=linkedin&logoColor=0FF181" alt="LinkedIn" /></a>
-<a href="mailto:suleymansametkaya@gmail.com"><img src="https://img.shields.io/badge/Email-111418?style=for-the-badge&logo=gmail&logoColor=0FF181" alt="Email" /></a>
+<a href="https://suleymansametkaya.com.tr"><img src="./assets/buttons/website.svg" height="40" alt="Website" /></a>&nbsp;
+<a href="https://suleymansametkaya.com.tr/cv"><img src="./assets/buttons/cv.svg" height="40" alt="CV" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/suleyman-samet-kaya/"><img src="./assets/buttons/linkedin.svg" height="40" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:suleymansametkaya@gmail.com"><img src="./assets/buttons/email.svg" height="40" alt="Email" /></a>
 
 </div>
 
-## About Me
+## About
 
-I am a **Computer Engineer** working at the intersection of computer vision, artificial intelligence and autonomous systems. I enjoy turning research and prototypes into reliable software that can operate in real-world environments.
+> I am a **Computer Engineer** focused on computer vision, artificial intelligence and autonomous systems. I build reliable software that connects visual intelligence with real-world operations.
 
-My primary focus is building systems that can **detect, track, understand and act** on visual data.
+<p align="center">
+  <code>Detect</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Track</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Understand</code>&nbsp;&nbsp;→&nbsp;&nbsp;<code>Act</code>
+</p>
 
 ## What I Build
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Computer Vision</h3>
-      Real-time detection, tracking, counting and visual inspection systems.
-    </td>
-    <td width="33%" valign="top">
-      <h3>Autonomous Systems</h3>
-      UAV missions, route planning, simulation and ground-control software.
-    </td>
-    <td width="33%" valign="top">
-      <h3>Applied AI</h3>
-      Practical AI solutions designed around measurable operational needs.
-    </td>
-  </tr>
-</table>
+<img src="./assets/focus-grid.svg" width="100%" alt="Computer Vision, Autonomous Systems and Applied AI" />
 
 ## Technologies
 
@@ -63,24 +50,14 @@ My primary focus is building systems that can **detect, track, understand and ac
 
 ## Selected Work
 
-- **Drone-Assisted Inventory Intelligence** — Real-time pallet detection, tracking and counting with autonomous UAV workflows.
-- **UAV Solar Panel Inspection** — Thermal and visual analysis for automated field inspection.
-- **Space Biology Knowledge Engine** — Context-aware knowledge retrieval for NASA space-biology research.
-
-Explore the projects and their technical details on [suleymansametkaya.com.tr](https://suleymansametkaya.com.tr) or across my [GitHub repositories](https://github.com/suleymansametkaya?tab=repositories).
-
----
+<img src="./assets/selected-work.svg" width="100%" alt="Selected projects" />
 
 <div align="center">
 
-### Let’s Build Something Meaningful
+Explore more on [**my portfolio**](https://suleymansametkaya.com.tr) or browse [**all repositories**](https://github.com/suleymansametkaya?tab=repositories).
 
-I am open to conversations around computer vision, autonomous systems and applied AI.
+<br />
 
-<a href="mailto:suleymansametkaya@gmail.com">Email</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/suleyman-samet-kaya/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://suleymansametkaya.com.tr">Portfolio</a>
+<sub>Open to conversations around computer vision, autonomous systems and applied AI.</sub>
 
 </div>
