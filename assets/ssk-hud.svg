@@ -1,21 +1,21 @@
-<svg width="1200" height="430" viewBox="0 0 1200 430" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Süleyman Samet Kaya engineering HUD</title>
-  <desc id="desc">Animated dark heads-up display with a glowing arc reactor and computer vision telemetry.</desc>
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Süleyman Samet Kaya</title>
+  <desc id="desc">Animated dark heads-up display with a glowing arc reactor and the name Süleyman Samet Kaya.</desc>
   <defs>
-    <radialGradient id="reactorCore" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(254 215) rotate(90) scale(95)">
-      <stop stop-color="#E8FFF4"/>
-      <stop offset="0.18" stop-color="#0FF181"/>
-      <stop offset="0.55" stop-color="#08A65B" stop-opacity="0.68"/>
+    <radialGradient id="reactorCore" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 170) rotate(90) scale(82)">
+      <stop stop-color="#F1FFF8"/>
+      <stop offset="0.2" stop-color="#0FF181"/>
+      <stop offset="0.58" stop-color="#08A65B" stop-opacity="0.65"/>
       <stop offset="1" stop-color="#0A0A0B" stop-opacity="0"/>
     </radialGradient>
-    <linearGradient id="panelGlow" x1="40" y1="30" x2="1160" y2="400" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0FF181" stop-opacity="0.16"/>
+    <linearGradient id="panelGlow" x1="30" y1="20" x2="1170" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0FF181" stop-opacity="0.15"/>
       <stop offset="0.46" stop-color="#0A0A0B" stop-opacity="0"/>
-      <stop offset="1" stop-color="#E21D2D" stop-opacity="0.1"/>
+      <stop offset="1" stop-color="#E21D2D" stop-opacity="0.09"/>
     </linearGradient>
     <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
       <stop stop-color="#0FF181" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#0FF181" stop-opacity="0.34"/>
+      <stop offset="0.5" stop-color="#0FF181" stop-opacity="0.3"/>
       <stop offset="1" stop-color="#0FF181" stop-opacity="0"/>
     </linearGradient>
     <filter id="greenGlow" x="-100%" y="-100%" width="300%" height="300%">
@@ -23,84 +23,72 @@
       <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <filter id="softGlow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="16"/>
+      <feGaussianBlur stdDeviation="14"/>
     </filter>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.026"/>
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.025"/>
     </pattern>
-    <clipPath id="frameClip"><rect x="1" y="1" width="1198" height="428" rx="22"/></clipPath>
+    <clipPath id="frameClip"><rect x="1" y="1" width="1198" height="338" rx="22"/></clipPath>
   </defs>
 
   <g clip-path="url(#frameClip)">
-    <rect width="1200" height="430" rx="22" fill="#0A0A0B"/>
-    <rect width="1200" height="430" fill="url(#grid)"/>
-    <rect width="1200" height="430" fill="url(#panelGlow)"/>
-    <circle cx="254" cy="215" r="150" fill="#0FF181" fill-opacity="0.055" filter="url(#softGlow)">
-      <animate attributeName="fill-opacity" values="0.035;0.09;0.035" dur="3s" repeatCount="indefinite"/>
+    <rect width="1200" height="340" rx="22" fill="#0A0A0B"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <rect width="1200" height="340" fill="url(#panelGlow)"/>
+
+    <circle cx="220" cy="170" r="132" fill="#0FF181" fill-opacity="0.05" filter="url(#softGlow)">
+      <animate attributeName="fill-opacity" values="0.03;0.085;0.03" dur="3s" repeatCount="indefinite"/>
     </circle>
 
-    <g transform="translate(254 215)">
-      <circle r="108" stroke="#FFFFFF" stroke-opacity="0.08"/>
-      <circle r="97" stroke="#0FF181" stroke-opacity="0.24" stroke-width="2" stroke-dasharray="3 9">
+    <g transform="translate(220 170)">
+      <circle r="96" stroke="#FFFFFF" stroke-opacity="0.07"/>
+      <circle r="87" stroke="#0FF181" stroke-opacity="0.25" stroke-width="2" stroke-dasharray="3 9">
         <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
       </circle>
-      <circle r="82" stroke="#0FF181" stroke-width="2" stroke-dasharray="34 10 5 10" filter="url(#greenGlow)">
+      <circle r="73" stroke="#0FF181" stroke-width="2" stroke-dasharray="30 10 5 10" filter="url(#greenGlow)">
         <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
       </circle>
-      <circle r="64" stroke="#E9B949" stroke-opacity="0.64" stroke-width="2" stroke-dasharray="7 12">
+      <circle r="57" stroke="#E9B949" stroke-opacity="0.62" stroke-width="2" stroke-dasharray="7 12">
         <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
       </circle>
-      <path d="M0-55 47.6-27.5V27.5L0 55-47.6 27.5V-27.5Z" stroke="#0FF181" stroke-width="3" filter="url(#greenGlow)"/>
-      <path d="M0-42 36.4-21V21L0 42-36.4 21V-21Z" fill="url(#reactorCore)" stroke="#E8FFF4" stroke-opacity="0.8"/>
-      <circle r="23" fill="#E8FFF4" fill-opacity="0.9" filter="url(#greenGlow)">
-        <animate attributeName="r" values="21;25;21" dur="2.4s" repeatCount="indefinite"/>
-        <animate attributeName="fill-opacity" values="0.75;1;0.75" dur="2.4s" repeatCount="indefinite"/>
+      <path d="M0-49 42.4-24.5V24.5L0 49-42.4 24.5V-24.5Z" stroke="#0FF181" stroke-width="3" filter="url(#greenGlow)"/>
+      <path d="M0-37 32-18.5V18.5L0 37-32 18.5V-18.5Z" fill="url(#reactorCore)" stroke="#E8FFF4" stroke-opacity="0.8"/>
+      <circle r="20" fill="#E8FFF4" fill-opacity="0.9" filter="url(#greenGlow)">
+        <animate attributeName="r" values="18;22;18" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="fill-opacity" values="0.72;1;0.72" dur="2.4s" repeatCount="indefinite"/>
       </circle>
-      <circle r="116" stroke="#0FF181" stroke-opacity="0.35">
-        <animate attributeName="r" values="108;135" dur="2.4s" repeatCount="indefinite"/>
-        <animate attributeName="stroke-opacity" values="0.45;0" dur="2.4s" repeatCount="indefinite"/>
+      <circle r="102" stroke="#0FF181" stroke-opacity="0.35">
+        <animate attributeName="r" values="96;122" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="stroke-opacity" values="0.42;0" dur="2.4s" repeatCount="indefinite"/>
       </circle>
     </g>
 
     <g stroke="#0FF181" stroke-width="2">
-      <path d="M40 84V40H84"/>
-      <path d="M1116 40H1160V84"/>
-      <path d="M40 346V390H84"/>
-      <path d="M1116 390H1160V346"/>
+      <path d="M38 76V38H76"/>
+      <path d="M1124 38H1162V76"/>
+      <path d="M38 264V302H76"/>
+      <path d="M1124 302H1162V264"/>
     </g>
 
     <g font-family="'Courier New', monospace" fill="#0FF181">
-      <text x="40" y="24" font-size="10" letter-spacing="4">SSK // INTELLIGENCE INTERFACE</text>
-      <text x="953" y="24" font-size="10" letter-spacing="3">MARK SSK-26</text>
-      <text x="40" y="414" font-size="9" letter-spacing="2" fill-opacity="0.55">CV NODE 41.0082N // 28.9784E // SYSTEM NOMINAL</text>
-      <text x="940" y="414" font-size="9" letter-spacing="2" fill-opacity="0.55">SIGNAL LOCKED</text>
+      <text x="38" y="24" font-size="10" letter-spacing="4">SSK // INTELLIGENCE INTERFACE</text>
+      <text x="1018" y="24" font-size="10" letter-spacing="3">MARK SSK</text>
     </g>
 
-    <g transform="translate(420 96)">
-      <text x="0" y="0" fill="#0FF181" font-family="'Courier New', monospace" font-size="13" font-weight="700" letter-spacing="5">COMPUTER ENGINEER // ONLINE</text>
-      <text x="0" y="68" fill="#F4F4F5" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">SÜLEYMAN SAMET</text>
-      <text x="0" y="126" fill="#F4F4F5" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800" letter-spacing="-2">KAYA</text>
-      <rect x="0" y="153" width="650" height="1" fill="#FFFFFF" fill-opacity="0.12"/>
-      <text x="0" y="190" fill="#A1A1AA" font-family="'Courier New', monospace" font-size="14" letter-spacing="2">COMPUTER VISION  ·  AI/ML  ·  AUTONOMOUS SYSTEMS</text>
-      <g transform="translate(0 226)" font-family="'Courier New', monospace" font-size="11">
-        <rect width="154" height="34" rx="17" fill="#0FF181" fill-opacity="0.09" stroke="#0FF181" stroke-opacity="0.38"/>
-        <circle cx="20" cy="17" r="4" fill="#0FF181" filter="url(#greenGlow)">
-          <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" repeatCount="indefinite"/>
-        </circle>
-        <text x="34" y="21" fill="#0FF181" letter-spacing="1.5">VISION READY</text>
-        <rect x="170" width="154" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.12"/>
-        <text x="190" y="21" fill="#D4D4D8" letter-spacing="1.5">UAV LINKED</text>
-        <rect x="340" width="174" height="34" rx="17" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.12"/>
-        <text x="360" y="21" fill="#D4D4D8" letter-spacing="1.5">FIELD TESTED</text>
-      </g>
+    <g transform="translate(370 188)">
+      <text x="0" y="0" textLength="760" lengthAdjust="spacingAndGlyphs" fill="#F4F4F5" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="800">SÜLEYMAN SAMET KAYA</text>
+      <rect x="2" y="31" width="758" height="2" fill="#0FF181" fill-opacity="0.5">
+        <animate attributeName="width" values="0;758;758" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="fill-opacity" values="0;0.65;0.2" dur="2.8s" repeatCount="indefinite"/>
+      </rect>
     </g>
 
-    <rect x="0" y="-8" width="1200" height="16" fill="url(#scan)" opacity="0.7">
-      <animate attributeName="y" values="-12;430" dur="5s" repeatCount="indefinite"/>
+    <rect x="0" y="-8" width="1200" height="16" fill="url(#scan)" opacity="0.65">
+      <animate attributeName="y" values="-12;340" dur="5s" repeatCount="indefinite"/>
     </rect>
-    <g opacity="0.22">
-      <path d="M0 120H1200M0 260H1200" stroke="#FFFFFF" stroke-dasharray="2 12"/>
+    <g opacity="0.18">
+      <path d="M0 106H1200M0 234H1200" stroke="#FFFFFF" stroke-dasharray="2 12"/>
     </g>
   </g>
-  <rect x="1" y="1" width="1198" height="428" rx="21" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="338" rx="21" stroke="#FFFFFF" stroke-opacity="0.1" stroke-width="2"/>
 </svg>
